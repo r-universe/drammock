@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "phonR"]
+	path = phonR
+	url = https://github.com/drammock/phonr
+	shallow = true
+	registered = true
